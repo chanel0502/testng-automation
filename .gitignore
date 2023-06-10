@@ -1,2 +1,4 @@
 /.idea/
 /target/test-classes/
+/.idea/testng-automation.iml
+/testng-automation.iml
